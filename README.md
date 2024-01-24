@@ -1,1 +1,1 @@
-# solar-system-animation
+# box-animation
